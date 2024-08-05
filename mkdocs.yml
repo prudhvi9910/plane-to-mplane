@@ -45,6 +45,7 @@ markdown_extensions:
   - tables
 
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/prudhvi9910
